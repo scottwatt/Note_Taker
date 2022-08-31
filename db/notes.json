@@ -1,20 +1,6 @@
-{
-  "notesArray": [
-    [
-      {
-        "title": "me",
-        "subtitle": "you"
-      }
-    ],
-    [
-      {
-        "title": "me",
-        "subtitle": "you"
-      },
-      {
-        "summer": "cold",
-        "winter": "hot"
-      }
-    ]
-  ]
-}
+[
+  {
+      "title":"Test Title",
+      "text":"Test text"
+  }
+]
